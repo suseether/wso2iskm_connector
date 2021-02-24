@@ -63,7 +63,7 @@
 	<filter-class>com.thetransactioncompany.cors.CORSFilter</filter-class>
 	<init-param>
 	    <param-name>cors.allowOrigin</param-name>
-            <param-value>http://*.quinnox.ai</param-value>
+            <param-value>*</param-value>
         </init-param>
     </filter>
 	
